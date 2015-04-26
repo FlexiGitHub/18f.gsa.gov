@@ -91,7 +91,7 @@ I like to put all my GitHub projects in the same directory. So **the first thing
 
 ![Screenshot: typing in mkdir code](/assets/blog/github-tutorial/mkdir-code.gif)
 
-## Clone a Repo on Your Computer
+## Clone a Repo on Your Computers
 
 * First, you want to log into GitHub. Go to [https://github.com/login](https://github.com/login) and sign in with your username and password.
 
